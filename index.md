@@ -25,5 +25,8 @@ Look below for all the awesome projects our students created for this course.
 *   [Slava Shaerman's project](./ss-project.html)
 *   [Kyle Scott's project](./ks-project.html)
 *   [Jeff Brown's project](./jb-project.html)
+*   [Evelyn Mateo Hernandez's project](./emh-project.html)
+*   [Meshach Santos' project](./ms-project.html)
+*   [Alejandro Rivera's project](./ar-project.html)
 
 * * *
