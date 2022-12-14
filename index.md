@@ -30,5 +30,6 @@ Look below for all the awesome projects our students created for this course.
 *   [Alejandro Rivera's project](./ar-project.html)
 *   [Freddie Zaragoza's project](./fz-project.html)
 *   [Mark A. Diaz's project](./mad-project.html)
+*   [Isaiah Singer's project](./is-project.html)
 
 * * *
