@@ -28,5 +28,6 @@ Look below for all the awesome projects our students created for this course.
 *   [Evelyn Mateo Hernandez's project](./emh-project.html)
 *   [Meshach Santos' project](./ms-project.html)
 *   [Alejandro Rivera's project](./ar-project.html)
+*   [Freddie Zaragoza's project](./fz-project.html)
 
 * * *
